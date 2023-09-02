@@ -1,0 +1,11 @@
+.App 
+     {
+        object-fit: cover;
+        display: flex;
+        list-style: none;
+        flex-wrap: wrap;
+        gap: 20px;
+        background-color: rgb(251, 238, 222);
+        text-align: center;
+      }
+      
